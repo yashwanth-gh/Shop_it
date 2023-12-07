@@ -1,4 +1,4 @@
-# Brand Snap E-Commerce Platform
+# ShopIt E-Commerce Platform
 
 Welcome to Brand Snap, your go-to destination for the latest and trendiest brands! This e-commerce platform is designed to provide users with a seamless shopping experience, showcasing a curated selection of high-quality products from various brands.
 
@@ -12,7 +12,7 @@ Welcome to Brand Snap, your go-to destination for the latest and trendiest brand
 
 ## Introduction
 
-Brand Snap is an e-commerce project that aims to revolutionize the way people discover and shop for their favorite brands online. Whether you are a fashion enthusiast, tech geek, or home decor lover, Brand Snap has something for everyone.
+ShopIt is an e-commerce project that aims to revolutionize the way people discover and shop for their favorite brands online. Whether you are a fashion enthusiast, tech geek, or home decor lover, Brand Snap has something for everyone.
 
 ## Features
 
@@ -24,8 +24,8 @@ Brand Snap is an e-commerce project that aims to revolutionize the way people di
 
 ## Getting Started
 
-To get started with Brand Snap, follow these simple steps:
+To get started with ShopIt, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Brand_Snap.git
+   git clone https://github.com/your-username/Shop_it.git
